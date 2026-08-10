@@ -53,3 +53,5 @@ Nenhuma linha de código ou instrução fornecida pela IA foi inserida no projet
 
 ### 5. Reflexão Crítica sobre o Uso de IA
 A IA atuou como uma **ferramenta de produtividade e diagnóstico técnico (Thought Partner)**. Ela acelerou a resolução de travamentos e erros sintáticos, mas exigiu curadoria humana constante. Sem o entendimento prévio da arquitetura do Unity (como funcionamento de Cenas, Canvas, Event Systems e Prefabs), as sugestões de código teriam gerado inconsistências entre as cenas. A IA sugeriu caminhos, mas a decisões de design, física e escopo partiram inteiramente do desenvolvedor.
+
+> 💡 **Nota sobre o Desenvolvimento:** Esta foi minha primeira experiência prática utilizando a Unity. Apesar de possuir bagagem prévia com Blender e Unreal Engine, o processo de adaptação às rotinas e à arquitetura da engine foi um desafio extremamente instigante e enriquecedor.
