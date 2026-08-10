@@ -14,7 +14,7 @@ O projeto simula a navegação panorâmica estilo Street View por locações rea
 
 ### 🎮 Links e Acesso
 * **Link da Build (WebGL):** [Link do jogo](https://nikolasvianna-hub.itch.io/rob0t-parkour-360)
-* **Vídeo de Apresentação:** [Insira o link do YouTube/Vimeo aqui]
+* **Vídeo de Apresentação:** [[Link do vídeo](https://youtu.be/I1yL7ovYnb8)
 
 ---
 
