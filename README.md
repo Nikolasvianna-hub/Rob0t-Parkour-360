@@ -13,7 +13,7 @@ Protótipo funcional de um navegador panorâmico 360° interativo desenvolvido n
 O projeto simula a navegação panorâmica estilo Street View por locações reais (Fase 1: Unifor, Fase 2: Catedral, Fase 3: Dragão do Mar). O jogador navega no ambiente 360°, realiza mini-desafios de movimentação/parkour para atingir o ponto de vista ideal e interage com a tecla **F** para registrar a foto e visualizar as informações da locação.
 
 ### 🎮 Links e Acesso
-* **Link da Build (WebGL):** [Insira o link aqui - ex: itch.io / GitHub Pages / Unity Play]
+* **Link da Build (WebGL):** [Link do jogo](https://nikolasvianna-hub.itch.io/rob0t-parkour-360)
 * **Vídeo de Apresentação:** [Insira o link do YouTube/Vimeo aqui]
 
 ---
